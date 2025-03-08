@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: lightblue;
+}
+h1, h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 80px;
 }
